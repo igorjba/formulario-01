@@ -3,5 +3,31 @@
     justify-content: space-between;
 
     height: 100vh;
+}
 
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: calc(100vw - 640px);
+}
+
+.right {
+    width: 640px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+
+    width: 476px;
+    height: 400px;
+    margin-top: 16px;
+}
+
+.container-btn {
+    display: flex;
+    flex-direction: column;
 }
