@@ -17,3 +17,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn {
+  all: unset;
+
+  width: 476px;
+  height: 51px;
+  border-radius: 6px;
+
+  cursor: pointer;
+
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.sign-up {
+  background-color: #2A4D77;
+}
+
+.cancel {
+  background-color: rgba(251, 6, 21, 0.65);
+}

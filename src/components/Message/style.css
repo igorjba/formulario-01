@@ -1,0 +1,19 @@
+.container-success {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-success img {
+    width: 446px;
+}
+
+.container-success h2 {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #0B2F49;
+}

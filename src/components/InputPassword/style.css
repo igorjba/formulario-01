@@ -1,0 +1,12 @@
+.container-input-password {
+    position: relative;
+}
+
+.eye-icon {
+    width: 24px;
+    position: absolute;
+    right: 16px;
+    top: 30px;
+
+    cursor: pointer;
+}
