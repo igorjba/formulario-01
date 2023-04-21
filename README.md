@@ -9,7 +9,7 @@
 
 ## Como visualizar o projeto
 
-Para visualizar o projeto, basta acessar o link: [https://formulario-01.vercel.app/](https://formulario-01.vercel.app/)
+Para visualizar o projeto, basta acessar o link: [https://formulario-01-indol.vercel.app](https://formulario-01-indol.vercel.app)
 
 ## Sobre
 
@@ -31,11 +31,11 @@ Para visualizar o projeto, basta acessar o link: [https://formulario-01.vercel.a
 
  <br>
 
-- Login ![](https://i.ibb.co/wW3GM2T/Erro.jpg "Login    ")
+- Login ![](https://i.ibb.co/wW3GM2T/Erro.jpg "Error    ")
 
 <br>
 
-- Login ![](https://i.ibb.co/KFs2jHY/Sucess.jpg "Login    ")
+- Login ![](https://i.ibb.co/KFs2jHY/Sucess.jpg "Sucess    ")
 
 <br>
 
