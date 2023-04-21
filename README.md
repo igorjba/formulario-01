@@ -31,11 +31,11 @@ Para visualizar o projeto, basta acessar o link: [https://formulario-01-indol.ve
 
  <br>
 
-- Login ![](https://i.ibb.co/wW3GM2T/Erro.jpg "Error    ")
+- Error ![](https://i.ibb.co/wW3GM2T/Erro.jpg "Error    ")
 
 <br>
 
-- Login ![](https://i.ibb.co/KFs2jHY/Sucess.jpg "Sucess    ")
+- Sucess ![](https://i.ibb.co/KFs2jHY/Sucess.jpg "Sucess    ")
 
 <br>
 
